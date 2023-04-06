@@ -1,0 +1,6 @@
+CREATE FUNCTION `numberofyears` ()
+RETURNS INTEGER
+BEGIN
+
+RETURN 1;
+END
